@@ -1,9 +1,0 @@
-Info[2022-2-25 17:19:6]CellLog::setLogPath success,<serverLog[2022-2-25_17-19-6].txt,w>
-Info[2022-2-25 17:19:6]<socket=260>初始化socket成功..
-Info[2022-2-25 17:19:6]绑定网络端口<9999>成功...
-Info[2022-2-25 17:19:6]socket=<260>监听网络端口成功...
-Info[2022-2-25 17:19:7]thread<4>,time<1.013823>,socket<260>,clients<0>,recv<0>,msg<0>
-Info[2022-2-25 17:19:8]thread<4>,time<1.002183>,socket<260>,clients<0>,recv<0>,msg<0>
-Info[2022-2-25 17:19:9]thread<4>,time<1.002300>,socket<260>,clients<0>,recv<0>,msg<0>
-Info[2022-2-25 17:19:10]thread<4>,time<1.002231>,socket<260>,clients<0>,recv<0>,msg<0>
-Info[2022-2-25 17:19:29]thread<4>,time<19.502855>,socket<260>,clients<4>,recv<0>,msg<0>
